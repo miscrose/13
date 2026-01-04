@@ -1,4 +1,4 @@
-package com.example.web_service_soap_jaxws_spring_boot;
+package com.example.tp13;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
